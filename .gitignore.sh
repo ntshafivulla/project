@@ -1,6 +1,2 @@
-
-
-echo "hai shafivulla"
-echo "hai"
-echo "creat new repo"
-echo "modifications"
+echo ".gitignore shafi.sh"
+echo ".gitignore stu.sh"
