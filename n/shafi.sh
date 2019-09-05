@@ -1,5 +1,23 @@
-echo "hello shafi"
-echo "hai shafi"
+
+
+echo "hai shafivulla"
 echo "hai"
 echo "creat new repo"
+
+echo "modifications"
 echo "the file changes"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
