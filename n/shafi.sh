@@ -5,7 +5,7 @@ echo "modifications"
 echo "the file changes"
 echo "i miss you job due to tension"
 echo "please i give one more chance god"
-
+echo "i doing blunder mistake i loss my job"
 
 
 
