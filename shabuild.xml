@@ -1,4 +1,4 @@
-<project name=" project" default="lib" basedir="."
+<project name=" project" default="war" basedir="."
 <description> first build fild</description>
 <target name="init">
 <mkdir dir="web"/>
