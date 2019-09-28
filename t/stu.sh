@@ -1,6 +1,7 @@
 echo "hello shafi"
 echo "hai shafi"
 echo "hai"
+ecno "new process github"
 echo "create new repo"
 echo "new commit"
 echo "new admin"
