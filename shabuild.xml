@@ -1,4 +1,4 @@
-<project name="ready" default="package" basedir=".">
+<project name="project" default="jar" basedir=".">
 <target name="init">
 <mkdir dir="web"/>
 </target>
@@ -8,7 +8,7 @@
 <target name="lib" depends="compile">
 <mkdir dir="web/lib"/>
 </target>
-<target name="package" depends="lib">
-<"package" basedir="src" destfile="web/lib/ready.jar"/>
+<target name="jar" depends="lib">
+<jar basedir="src" destfile="web/lib/project.jar"/>
 </target>
 </project>
